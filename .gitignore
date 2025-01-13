@@ -1,0 +1,10 @@
+# Vim swap files
+*.swp
+
+# log file
+*.log*
+
+# vscode files
+.editorconfig
+.vscode
+.vs
